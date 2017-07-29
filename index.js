@@ -1,7 +1,6 @@
 /**
 * @file Node.js function boilerplate for Amazon Web Services Lambda.
 * @author Victor Springer <victorspringer@gmail.com>
-* @license MIT
 */
 const http = require('http');
 
